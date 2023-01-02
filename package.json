@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+    "url": "https://github.com/ingeshare/curso-webpack-react.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/curso-webpack-react/issues"
+    "url": "https://github.com/ingeshare/curso-webpack-react.git"
   },
-  "homepage": "https://github.com/platzi/curso-webpack-react#readme",
+  "homepage": "https://github.com/ingeshare/curso-webpack-react.git",
   "devDependencies": {
     "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
